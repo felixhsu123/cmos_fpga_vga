@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Dec 25 09:02:04 2015
+Quartus II Version : 11.0 Build 208 07/03/2011 SP 1 SJ Full Version
+Revision Name : cmos_fpga_vga
+Top-level Entity Name : cmos_fpga_vga
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,134 / 10,320 ( 11 % )
+    Total combinational functions : 1,027 / 10,320 ( 10 % )
+    Dedicated logic registers : 515 / 10,320 ( 5 % )
+Total registers : 515
+Total pins : 113 / 180 ( 63 % )
+Total virtual pins : 0
+Total memory bits : 32,768 / 423,936 ( 8 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
